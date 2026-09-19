@@ -16,6 +16,7 @@ backend/htmlcov/
 frontend/node_modules/
 frontend/dist/
 frontend/.env
+frontend/.wrangler/
 
 # Local tooling state
 .claude/
